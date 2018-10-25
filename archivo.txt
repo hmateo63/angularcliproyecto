@@ -1,0 +1,10 @@
+ El volumen de la unidad C es OS
+ El n£mero de serie del volumen es: CEC1-5CC7
+
+ Directorio de C:\angular\angularcliproyecto
+
+25/10/2018  11:30    <DIR>          .
+25/10/2018  11:30    <DIR>          ..
+25/10/2018  11:30                 0 archivo.txt
+               1 archivos              0 bytes
+               2 dirs  309,882,945,536 bytes libres
